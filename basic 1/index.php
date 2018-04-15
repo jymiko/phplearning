@@ -1,3 +1,5 @@
+// show basic php languange and calculate age from this year
+
 <?php
 $nama="Jatmiko";
 $alamat="Jl.Gadang gang 17b no 17b";
